@@ -1,0 +1,6 @@
+anticipation.egg-info/
+build/
+cache/
+checkpoints/
+logs/
+wandb/
