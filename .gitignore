@@ -4,3 +4,7 @@ cache/
 checkpoints/
 logs/
 wandb/
+MIDI/
+anticipation/__pycache__/
+tmp.mid
+tmp.wav
